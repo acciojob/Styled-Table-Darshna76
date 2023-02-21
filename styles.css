@@ -1,1 +1,27 @@
 /* your code */
+.head{
+	background-color:blue;
+	text-align:left;
+	color:white;
+}
+.table{
+	border:1px solid #e7e7e7;
+	 border-collapse: collapse;
+        border-radius: 30px;
+        border-style: hidden; /* hide standard table (collapsed) border */
+        box-shadow: 0 0 0 1px #666; /* this draws the table border  */
+	    border-spacing:0;
+}
+.tr1{
+	background-color:white;
+}
+.tr2{
+	background-color:#e7e7e7;
+}
+table, tr, td, th{
+padding: 10px;
+margin: auto;
+border: none;
+border-collapse:collapse;
+padding-right:25px;
+}
